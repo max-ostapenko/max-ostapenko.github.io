@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Max Ostapenko</title>
+    <link>https://maxostapenko.com/authors/</link>
+      <atom:link href="https://maxostapenko.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Max Ostapenko © 2020</copyright>
+    <image>
+      <url>https://maxostapenko.com/images/icon_hub7b58f9f16b01635e5c037fa51631ca0_6668_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://maxostapenko.com/authors/</link>
+    </image>
+    
+    <item>
+      <title>Max Ostapenko</title>
+      <link>https://maxostapenko.com/author/max-ostapenko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maxostapenko.com/author/max-ostapenko/</guid>
+      <description>&lt;p&gt;Building scalable and actionable data products&lt;/p&gt;
+&lt;p&gt;#dataops #linux #python #nodejs&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
