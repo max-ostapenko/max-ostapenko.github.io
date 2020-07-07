@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Max Ostapenko</title>
+    <title>Max Ostapenko | Building data products</title>
     <link>https://maxostapenko.com/</link>
       <atom:link href="https://maxostapenko.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Max Ostapenko</description>
+    <description>Max Ostapenko | Building data products</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Max Ostapenko © 2020</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://maxostapenko.com/images/icon_hub7b58f9f16b01635e5c037fa51631ca0_6668_512x512_fill_lanczos_center_2.png</url>
-      <title>Max Ostapenko</title>
+      <title>Max Ostapenko | Building data products</title>
       <link>https://maxostapenko.com/</link>
     </image>
     
