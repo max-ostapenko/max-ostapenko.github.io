@@ -1,32 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DataEngineering | Max Ostapenko | Building data products</title>
+    <title>DataEngineering on Max Ostapenko | Building data products</title>
     <link>https://maxostapenko.com/tag/dataengineering/</link>
-      <atom:link href="https://maxostapenko.com/tag/dataengineering/index.xml" rel="self" type="application/rss+xml" />
-    <description>DataEngineering</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Max Ostapenko © 2020</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://maxostapenko.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>DataEngineering</title>
-      <link>https://maxostapenko.com/tag/dataengineering/</link>
-    </image>
-    
+    <description>Recent content in DataEngineering on Max Ostapenko | Building data products</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Max Ostapenko &amp;copy; {year}</copyright>
+    <lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://maxostapenko.com/tag/dataengineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hands-on best practice</title>
       <link>https://maxostapenko.com/project/hands-on-best-practice/</link>
       <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://maxostapenko.com/project/hands-on-best-practice/</guid>
-      <description>&lt;p&gt;Languages:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;python&#34;&gt;Python&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;javascript&#34;&gt;JavaScript&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;data-engineering&#34;&gt;Data Engineering&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Collection of best practices to follow in your coding hobby-projects</description>
     </item>
     
   </channel>

@@ -1,25 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Max Ostapenko | Building data products</title>
+    <title>Authors on Max Ostapenko | Building data products</title>
     <link>https://maxostapenko.com/authors/</link>
-      <atom:link href="https://maxostapenko.com/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Max Ostapenko © 2020</copyright>
-    <image>
-      <url>https://maxostapenko.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Authors</title>
-      <link>https://maxostapenko.com/authors/</link>
-    </image>
-    
+    <description>Recent content in Authors on Max Ostapenko | Building data products</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Max Ostapenko &amp;copy; {year}</copyright><atom:link href="https://maxostapenko.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Max Ostapenko</title>
       <link>https://maxostapenko.com/author/max-ostapenko/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://maxostapenko.com/author/max-ostapenko/</guid>
-      <description>&lt;p&gt;Building scalable and actionable data products&lt;/p&gt;
-&lt;p&gt;#dataops #linux #python #nodejs&lt;/p&gt;
-</description>
+      <description>Building scalable and actionable data products
+#dataops #linux #python #nodejs</description>
     </item>
     
   </channel>

@@ -1,16 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | Max Ostapenko | Building data products</title>
+    <title>Tags on Max Ostapenko | Building data products</title>
     <link>https://maxostapenko.com/tags/</link>
-      <atom:link href="https://maxostapenko.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Max Ostapenko © 2020</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://maxostapenko.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Tags</title>
-      <link>https://maxostapenko.com/tags/</link>
-    </image>
+    <description>Recent content in Tags on Max Ostapenko | Building data products</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Max Ostapenko &amp;copy; {year}</copyright>
+    <lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://maxostapenko.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DataEngineering</title>
+      <link>https://maxostapenko.com/tag/dataengineering/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxostapenko.com/tag/dataengineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://maxostapenko.com/tag/javascript/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxostapenko.com/tag/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://maxostapenko.com/tag/programming/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxostapenko.com/tag/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://maxostapenko.com/tag/python/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://maxostapenko.com/tag/python/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
